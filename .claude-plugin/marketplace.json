@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "izantech",
+  "description": "Developer productivity plugins and multi-agent workflows",
+  "owner": {
+    "name": "izantech",
+    "email": "dev@izantech.app"
+  },
+  "plugins": [
+    {
+      "name": "lineup",
+      "description": "Structured multi-agent workflow: Clarify, Research, Plan, Implement, Verify",
+      "version": "1.0.0",
+      "author": {
+        "name": "izantech"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/izantech/lineup.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/izantech/lineup"
+    }
+  ]
+}
