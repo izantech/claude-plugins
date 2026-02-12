@@ -10,7 +10,6 @@
     {
       "name": "lineup",
       "description": "Structured multi-agent workflow: Clarify, Research, Plan, Implement, Verify",
-      "version": null,
       "author": {
         "name": "izantech"
       },
